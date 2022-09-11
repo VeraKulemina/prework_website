@@ -1,0 +1,14 @@
+body {
+    background: blue;
+
+  }
+  h1 {
+    color: white;
+    text-align: center;
+    font-family: verdana;
+    font-size: 20px;
+    border: 2px solid Tomato;
+    background-color: black;
+    width: 200px;
+  }
+  
